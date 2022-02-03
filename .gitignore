@@ -1,6 +1,9 @@
-dataset_processing/datasets
-dataset_processing/results
-dataset_processing/crop_results
-dataset_processing/datasets.zip
-dataset_processing/results.zip
-dataset_processing/crop_results.zip
+**/*__pycache__
+**/*datasets
+**/*results
+**/*crop_results
+**/*final_dataset_not_reduced
+**/*datasets.zip
+**/*results.zip
+**/*crop_results.zip
+**/*final_dataset_not_reduced.zip
