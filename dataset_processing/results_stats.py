@@ -90,12 +90,12 @@ def count_images_in_folder(folder):
     
     
 def display_animals_column_plots():
-    animals = count_images_in_folder('./datasety/animals_10')
-    recognised_animals = count_images_in_folder('./results/datasety/animals_10')
-    chimpanzees = count_images_in_folder('./datasety/chimpanzees')
-    recognised_chimpanzees = count_images_in_folder('./results/datasety/chimpanzees')
-    monkeys = count_images_in_folder('./datasety/monkeys')
-    recognised_monkeys = count_images_in_folder('./results/datasety/monkeys')
+    animals = count_images_in_folder('./datasets/animals_10')
+    recognised_animals = count_images_in_folder('./results/datasets/animals_10')
+    chimpanzees = count_images_in_folder('./datasets/chimpanzees')
+    recognised_chimpanzees = count_images_in_folder('./results/datasets/chimpanzees')
+    monkeys = count_images_in_folder('./datasets/monkeys')
+    recognised_monkeys = count_images_in_folder('./results/datasets/monkeys')
     
     # set width of bar
     barWidth = 0.25
