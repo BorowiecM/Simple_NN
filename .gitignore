@@ -1,11 +1,19 @@
+# VS Code folders
 **/*__pycache__
-**/*debug_dataset
 **/*.vscode
+
+# Large folders
 **/*datasets
 **/*results
 **/*crop_results
 **/*final_dataset_not_reduced
+**/*debug_dataset
+**/*redundant_photos_results
+
+# Large folder archives
 **/*datasets.zip
 **/*results.zip
 **/*crop_results.zip
 **/*final_dataset_not_reduced.zip
+**/*debug_dataset.zip
+**/*redundant_photos_results.zip
